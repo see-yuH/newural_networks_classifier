@@ -48,45 +48,6 @@ Classification Report:
  Slight-Left-Turn       0.93      0.85      0.89        60
 Slight-Right-Turn       0.84      0.87      0.85       151
 
-Test Accuracy: 90.66%
-
-Classification Report:
-                   precision    recall  f1-score   support
-
-     Move-Forward       0.90      0.91      0.91       454
- Sharp-Right-Turn       0.93      0.93      0.93       427
- Slight-Left-Turn       0.93      0.85      0.89        60
-Slight-Right-Turn       0.84      0.87      0.85       151
-
-                   precision    recall  f1-score   support
-
-     Move-Forward       0.90      0.91      0.91       454
- Sharp-Right-Turn       0.93      0.93      0.93       427
- Slight-Left-Turn       0.93      0.85      0.89        60
-Slight-Right-Turn       0.84      0.87      0.85       151
-
-
-     Move-Forward       0.90      0.91      0.91       454
- Sharp-Right-Turn       0.93      0.93      0.93       427
- Slight-Left-Turn       0.93      0.85      0.89        60
-Slight-Right-Turn       0.84      0.87      0.85       151
-
-     Move-Forward       0.90      0.91      0.91       454
- Sharp-Right-Turn       0.93      0.93      0.93       427
- Slight-Left-Turn       0.93      0.85      0.89        60
-Slight-Right-Turn       0.84      0.87      0.85       151
-
- Sharp-Right-Turn       0.93      0.93      0.93       427
- Slight-Left-Turn       0.93      0.85      0.89        60
-Slight-Right-Turn       0.84      0.87      0.85       151
-
- Slight-Left-Turn       0.93      0.85      0.89        60
-Slight-Right-Turn       0.84      0.87      0.85       151
-
-Slight-Right-Turn       0.84      0.87      0.85       151
-
-
-         accuracy                           0.91      1092
          accuracy                           0.91      1092
         macro avg       0.90      0.89      0.89      1092
      weighted avg       0.91      0.91      0.91      1092
